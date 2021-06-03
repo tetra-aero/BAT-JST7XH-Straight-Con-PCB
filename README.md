@@ -1,1 +1,1 @@
-# BAT-JST7XH-Straight-Con-PCB
+# BAT-JST_XH7_Straight-Connector
